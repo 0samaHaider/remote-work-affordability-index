@@ -1,0 +1,65 @@
+city,country,crime_index,safety_index,data_source
+Amsterdam,Netherlands,25.7,74.3,2025_Current
+Athens,Greece,55.2,44.8,2025_Current
+Barcelona,Spain,51.9,48.1,2025_Current
+Belfast,United Kingdom,48.0,52.0,2025_Current
+Belgrade,Serbia,37.8,62.2,2025_Current
+Berlin,Germany,44.5,55.5,2025_Current
+Brussels,Belgium,56.1,43.9,2025_Current
+Bucharest,Romania,28.4,71.6,2025_Current
+Budapest,Hungary,33.9,66.1,2025_Current
+Cologne,Germany,44.5,55.5,2025_Current
+Copenhagen,Denmark,25.7,74.3,2025_Current
+Dresden,Germany,29.8,70.2,2025_Current
+Dublin,Ireland,54.1,45.9,2025_Current
+Dubrovnik,Dubrovnik,17.77,82.23,Single_Page_Recovery
+Dusseldorf,Germany,32.7,67.3,2025_Current
+Edinburgh,United Kingdom,30.4,69.6,2025_Current
+Florence,Italy,42.1,57.9,2025_Current
+Frankfurt,Germany,44.5,55.5,2025_Current
+Geneva,Switzerland,29.4,70.6,2025_Current
+Glasgow,United Kingdom,45.2,54.8,2025_Current
+Hamburg,Germany,39.9,60.1,2025_Current
+Hanover,Germany,45.1,54.9,2025_Current
+Helsinki,Finland,25.4,74.6,2025_Current
+Istanbul,Turkey,48.0,52.0,2025_Current
+Kiev (Kyiv),Ukraine,45.5,54.5,2025_Current
+Krakow (Cracow),Poland,24.8,75.2,2025_Current
+Lisbon,Portugal,32.6,67.4,2025_Current
+Liverpool,United Kingdom,48.5,51.5,2025_Current
+Ljubljana,Slovenia,21.8,78.2,2025_Current
+London,United Kingdom,55.6,44.4,2025_Current
+Lyon,France,60.3,39.7,2025_Current
+Madrid,Spain,28.6,71.4,2025_Current
+Malaga,Spain,31.0,69.0,2025_Current
+Manchester,United Kingdom,55.9,44.1,2025_Current
+Marseille,France,68.1,31.9,2025_Current
+Milan,Italy,53.5,46.5,2025_Current
+Minsk,Belarus,49.9,50.1,2025_Current
+Moscow,Russia,35.2,64.8,2025_Current
+Munich,Germany,21.1,78.9,2025_Current
+Naples,Italy,62.3,37.7,2025_Current
+Oslo,Norway,34.3,65.7,2025_Current
+Palma de Mallorca,Spain,35.7,64.3,2025_Current
+Paris,France,58.0,42.0,2025_Current
+Porto,Portugal,33.4,66.6,2025_Current
+Prague,Czech Republic,24.7,75.3,2025_Current
+Reykjavik,Iceland,24.2,75.8,2025_Current
+Riga,Latvia,37.5,62.5,2025_Current
+Rome,Italy,47.3,52.7,2025_Current
+Rotterdam,Netherlands,26.1,73.9,2025_Current
+Saint Petersburg,Russia,37.7,62.3,2025_Current
+Salzburg,Salzburg,20.5,79.5,Single_Page_Recovery
+Seville (Sevilla),Spain,35.9,64.1,2025_Current
+Sofia,Bulgaria,38.8,61.2,2025_Current
+Split,Croatia,30.1,69.9,2025_Current
+Stockholm,Sweden,46.5,53.5,2025_Current
+Stuttgart,Germany,30.4,69.6,2025_Current
+Tallinn,Estonia,21.7,78.3,2025_Current
+Valencia,Spain,34.6,65.4,2025_Current
+Valletta,Valletta,36.24,63.76,Single_Page_Recovery
+Vienna,Austria,28.2,71.8,2025_Current
+Vilnius,Lithuania,30.1,69.9,2025_Current
+Warsaw,Poland,25.4,74.6,2025_Current
+Zagreb,Croatia,21.4,78.6,2025_Current
+Zurich,Switzerland,23.4,76.6,2025_Current
