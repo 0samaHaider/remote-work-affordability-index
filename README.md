@@ -149,5 +149,3 @@ This is required for the notebooks to run correctly on your system.
 * All datasets were cleaned before analysis
 * Spelling inconsistencies across sources were handled programmatically
 * The project is designed for **academic and analytical use**
-
-Just tell me 👍
